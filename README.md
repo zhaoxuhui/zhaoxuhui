@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 - 📫 Feel free to contact me if you have any questions.
 
 ### Github Stats
-[![Xuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoxuhui&show_icons=true&count_private=true)](https://github.com/zhaoxuhui/github-readme-stats)
+[![Xuhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoxuhui&show_icons=true&count_private=true)](https://github.com/zhaoxuhui)
