@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @zhaoxuhui.
 - 👨‍🎓 A Ph.D. student in School of Remote Sensing and Information Engineering, Wuhan University, China.
 - 📷 Currently, I focus on the SLAM and visual perception for intelligent systems (such as UAVs) in robotics field.
-- 🌎 Besides, I'm also intrasted in remote sensing, artificial intelligence, embedded development.
+- 🌎 Besides, I'm also interested in remote sensing, artificial intelligence, embedded development.
 - 📫 Feel free to contact me if you have any questions.
 - 💬 I'm looking for a Postdoc or work position worldwide (especially in Australia, USA, Singapore, and Europe). If you are interested, don't hesitate to connect me for a deeper communication.
 
